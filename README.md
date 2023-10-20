@@ -7,20 +7,28 @@ like silk, wool and cotton into clothing. In the same way I have combined commod
 made the following report:
 
 
-
+## Table of Contents
+  * [What are Telephone-based Social Engineering attacks?](#what-are-telephone-based-social-engineering-attacks)
+  * [Understanding Document Vectorization](#understanding-vectorization)
+  * [Clustering Techniques](#clustering-techniques)
+  * [Classification Models](#classification-models)
+  * [Setup](#setup)
+  * [Todos](#todos)
+  * [Acknowledgements](#acknowledgements)
+  * [Citation](#citation)
+  * [Connect with me](#connect-with-me)
 
 
 ## Setup
 
-So we talked about what telephone based social engineering attacks are, and what they can do for you (among other things). <br/>
+
 Let's get this thing running! Follow the next steps:
 
-1. `git clone https://github.com/abideenml/ResearchProjects`
-2. Navigate into project directory `cd path_to_repo` and then move to  `Detecting-Telephone-based-Social-Engineering-Attacks` folder.
-3. Create a new venv environment and run `pip install -r requirements.txt`
-4. Run the `DocToVec_KMeans_+_EM_CLustering_Classifications_+_DBSCAN.ipynb` and `Universal_Vector_Encoding_KMeans_+_EM_+_DBSCAN_Clustering_Classifications.ipynb` file.
+1. `git clone https://github.com/abideenml/Dashboards-ofmy-MedicalResearchPaper-and-WorldTrade`
+2. Navigate into project directory `cd path_to_repo`
+3. Open the PowerBI dashboards file: `Powerbi Report of Commodities data.pbix`, `Influence of Medical  Education on Personality.pbix` and `Student Response Dashboard.pbix`.
 
-That's it! It should work out-of-the-box executing requirements.txt file which deals with dependencies. <br/>
+That's it! <br/>
 
 
 
@@ -29,9 +37,9 @@ That's it! It should work out-of-the-box executing requirements.txt file which d
 ## Todos:
 
 Finally there are a couple more todos which I'll hopefully add really soon:
-* Explore how open source LLMs can be used to detect these scams.
-* Make a data pipeline with Kedro and MLflow.
-* Deploy the models and learn the effect of drift on their performance.
+* Automate the entire process of Data preprocessing and scraping from International Monetary Fund website.
+* Perform Data collection from different Pakistani Medical Colleges.
+
 
 
 
@@ -41,9 +49,10 @@ Finally there are a couple more todos which I'll hopefully add really soon:
 
 I found these resources useful (while developing this one):
 
-* [Detecting Telephone-based Social Engineering Attacks using Scam Signatures](https://dl.acm.org/doi/pdf/10.1145/3445970.3451152)
-* [Universal Sentence Encoder](https://huggingface.co/Dimitre/universal-sentence-encoder)
-* [Doc2Vec](https://medium.com/wisio/a-gentle-introduction-to-doc2vec-db3e8c0cce5e)
+* [Internationl Monetary Fund Commodity Trade](https://data.imf.org/?sk=2cddccb8-0b59-43e9-b6a0-59210d5605d2)
+* [Pakistan Journal of Medical Sciences](https://www.pjms.org.pk/index.php/pjms)
+* [AWS Big Data Blogs](https://aws.amazon.com/blogs/big-data/category/analytics/aws-glue/)
+
 
 
 ## Citation
