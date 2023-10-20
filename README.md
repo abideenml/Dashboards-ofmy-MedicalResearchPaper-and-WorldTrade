@@ -1,23 +1,60 @@
-# Power BI Dashboard of World Trade of Commodities
+# Dashboards Of My Medical Research Paper :microscope: And World Trade :earth_asia: Of Commodities 
 
-## Dashboards Of My Medical Research Paper :microscope: And World Trade :earth_asia: Of Commodities 
-
-In this project, I have aggregated Data of World Trade of Commodities from United Nations. Then i have performed data preprocessing on it to combine similar excel files 
-like silk, wool and cotton into clothing. In the same way I have combined commodities of similar niche into one segment. Then i have imported the data in Power BI and 
+In this project, I have aggregated Data of World Trade of Commodities from United Nations. Then i have performed data preprocessing on it to combine similar excel files like silk, wool and cotton into clothing. In the same way I have combined commodities of similar niche into one segment. Then i have imported the data in Power BI and 
 made the following report:
+
+This repo contains the Dashboards of my Medical Research Paper (:link: [Fauzia et al.](https://pjmhsonline.com/index.php/pjmhs/article/view/4054/4006)) and World trade of Commodities. <br/>
+
+
 
 
 ## Table of Contents
-  * [What are Telephone-based Social Engineering attacks?](#what-are-telephone-based-social-engineering-attacks)
-  * [Understanding Document Vectorization](#understanding-vectorization)
-  * [Clustering Techniques](#clustering-techniques)
-  * [Classification Models](#classification-models)
+  * [Influence of Medical Education on Personality of Students](#influence-of-medical-education-on-personality-of-students)
+  * [World Trade of Commodities](#world-trade-of-commodities)
   * [Setup](#setup)
   * [Todos](#todos)
   * [Acknowledgements](#acknowledgements)
   * [Citation](#citation)
   * [Connect with me](#connect-with-me)
 
+
+
+
+## Influence of Medical Education on Personality of Students
+
+<p align="center">
+<img src="readme_pics/StudentResponse-Dash1.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="readme_pics/StudentResponse-Dash2.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="readme_pics/Influence-of-Medical-Education-1.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="readme_pics/Influence-of-Medical-Education-2.png" width="700"/>
+</p>
+
+## World Trade of Commodities
+
+<p align="center">
+<img src="readme_pics/DataPipeline-Comodities.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="readme_pics/CommodityDash-1.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="readme_pics/CommodityDash-2.png" width="700"/>
+</p>
+
+<p align="center">
+<img src="readme_pics/CommodityDash-3.png" width="700"/>
+</p>
 
 ## Setup
 
